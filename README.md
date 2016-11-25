@@ -1,2 +1,2 @@
 # ptjc
-ptjc for colleges
+ptjc for colleges its in baranch
